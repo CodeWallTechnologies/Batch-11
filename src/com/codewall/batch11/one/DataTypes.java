@@ -1,4 +1,4 @@
-package com.batcheleven.one;
+package com.codewall.batch11.one;
 
 public class DataTypes {
     public static void main(String[] args) {

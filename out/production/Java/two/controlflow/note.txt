@@ -1,0 +1,13 @@
+//decision making statement
+        //loop statement
+        //jump statement
+
+
+        //if -> if else -> if    else if   else
+        //switch case
+
+
+       loop statement
+
+       1 while / do while
+       2 for loop -> for each ->
