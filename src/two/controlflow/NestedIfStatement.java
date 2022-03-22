@@ -24,3 +24,8 @@ public class NestedIfStatement {
 }
 
 //Nested => ,,,=>,,,
+
+
+//git add .
+//git commit -m "lesson1"
+//git push origin master
